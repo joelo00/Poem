@@ -1,0 +1,2 @@
+Say hello to my new friend
+He's helping me work out git
